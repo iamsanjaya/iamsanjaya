@@ -8,22 +8,53 @@ I'm passionate about building practical software solutions through data science,
 
 ## 🛠️ Tech Stack
 
+### Full Stack Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,fastapi,js,react,html,css,postgres,mysql,git,github,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,fastapi,js,react,html,css&perline=7&size=56" />
+</p>
+
+### Data Science & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=2&size=56" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### Databases & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode&perline=5&size=56" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔍 Semantic Search System
-A production-oriented semantic search system built with **FastAPI**, **PostgreSQL**, **FAISS**, **Sentence Transformers**, and **LLM integration** for intelligent document retrieval.
+### 🔍 [Semantic Search System](https://github.com/iamsanjaya/project-semantic-search)
 
-### 📊 30 Days of Data Science & Machine Learning
-A collection of hands-on projects covering exploratory data analysis, machine learning, deep learning, computer vision, natural language processing, and end-to-end data science workflows.
+A production-ready semantic search system for intelligent document retrieval using Retrieval-Augmented Generation (RAG).
 
-### 🛒 SajiloMart
-A full-stack e-commerce application built with **Laravel**, featuring secure authentication, database-driven architecture, and modern web development practices.
+**Built with:** FastAPI • PostgreSQL • FAISS • Sentence Transformers • Groq API
+
+---
+
+### 📊 [30 Days of Data Science & Machine Learning](https://github.com/iamsanjaya/30days-of-datascience)
+
+A collection of hands-on projects covering:
+
+- Exploratory Data Analysis (EDA)
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
 
 ---
 
@@ -40,10 +71,10 @@ A full-stack e-commerce application built with **Laravel**, featuring secure aut
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iamsanjaya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:sanjayachaudhary.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
