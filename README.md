@@ -1,81 +1,33 @@
-# Hi there, I'm Sanjaya Chaudhary 👋
+# Hi, I'm Sanjaya Chaudhary 👋
 
-### Data Science & Machine Learning | Full Stack Development
+### Data Science & Machine Learning • Full Stack Development
 
-📍 Kathmandu, Nepal
-
-I'm passionate about building practical software solutions through **Data Science, Machine Learning, and Full Stack Development**. I enjoy solving real-world problems by combining software engineering, backend development, and data-driven technologies.
+I'm passionate about building practical software solutions through data science, machine learning, and full stack development. I enjoy transforming ideas into scalable applications while continuously learning and improving as a software engineer.
 
 ---
 
-## 🚀 Technical Skills
+## 🛠 Tech Stack
 
-### Programming Languages
-
-- Python
-- PHP
-- JavaScript
-- SQL
-
-### Full Stack Development
-
-- Laravel
-- FastAPI
-- REST APIs
-- HTML5
-- CSS3
-- React
-- Tailwind CSS
-
-### Data Science & Machine Learning
-
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow
-- Natural Language Processing (NLP)
-
-### Databases
-
-- PostgreSQL
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,fastapi,js,react,html,css,postgres,mysql,git,github,vscode,tensorflow" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔍 Semantic Search System
-
-Production-oriented semantic search application built using FastAPI, PostgreSQL, vector search, and modern NLP techniques.
-
----
+Production-oriented semantic search system using FastAPI, PostgreSQL, vector search, and NLP techniques.
 
 ### 📊 30 Days of Data Science & Machine Learning
-
-Hands-on projects covering:
-
-- Exploratory Data Analysis
-- Data Visualization
-- Feature Engineering
-- Machine Learning
-- Deep Learning
-- NLP
-
----
+A collection of practical projects covering data analysis, machine learning, deep learning, and NLP.
 
 ### 🛒 SajiloMart
-
-A full-stack e-commerce application developed using Laravel with modern backend architecture and database-driven design.
+Full Stack e-commerce application built with Laravel and modern web technologies.
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamsanjaya&show_icons=true&hide_border=true" />
@@ -84,8 +36,14 @@ A full-stack e-commerce application developed using Laravel with modern backend 
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsanjaya)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayachaudhary.tech@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/iamsanjaya">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:sanjayachaudhary.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
